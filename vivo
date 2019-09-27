@@ -1,0 +1,8 @@
+vivo 282
+>touch 
+git status 
+git add .
+git status
+  git log 
+   git show commit id
+
