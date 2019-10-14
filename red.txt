@@ -1,0 +1,11 @@
+jav homes 
+second clalss
+git clone 
+git add 
+git commit 
+git status 
+git loe 
+git log 
+git log file name 
+git user name 
+git uset email.com
