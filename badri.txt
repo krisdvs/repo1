@@ -2,3 +2,6 @@ badri
 location nandyala 
 jd 		bank seeking
 native 	pdtr
+father
+mother
+language
