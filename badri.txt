@@ -5,5 +5,3 @@ native 	pdtr
 father
 mother
 language
-working in kia anatapur
-
