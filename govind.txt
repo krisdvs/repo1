@@ -4,3 +4,5 @@ location hyderbad
 pf 40000
 ctc someK
 education : Btech in engineering
+native ap
+
